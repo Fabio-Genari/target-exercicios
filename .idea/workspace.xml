@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7572ebc0-e128-46ef-a385-f79fde22eb92" name="Changes" comment="resolução exercício Fibonacci">
-      <change afterPath="$PROJECT_DIR$/src/target/exercicios/Ex3_FaturamentoDiaMes.java" afterDir="false" />
+    <list default="true" id="7572ebc0-e128-46ef-a385-f79fde22eb92" name="Changes" comment="resolução exercício de faturamento (Maior/Menor/Média)">
+      <change afterPath="$PROJECT_DIR$/src/target/exercicios/Ex4_PercentualEstados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,11 +61,19 @@
       <option name="project" value="LOCAL" />
       <updated>1677690220966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="resolução exercício de faturamento (Maior/Menor/Média)">
+      <created>1677694730464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677694730464</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="resolução exercício Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolução exercício Fibonacci" />
+    <MESSAGE value="resolução exercício de faturamento (Maior/Menor/Média)" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução exercício de faturamento (Maior/Menor/Média)" />
   </component>
 </project>
